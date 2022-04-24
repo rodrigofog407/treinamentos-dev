@@ -1,0 +1,14 @@
+Gomandos git bach
+
+ls      : Listar as pastas do diretório
+cd      : Navegar entrea as pastas
+cd ..   : Voltar um nivel
+mkdir   : Criar uma pasta
+rmdir + nome da pasta + /s /q : deletar pastas e arquivos
+rmdir + nome da pasta rm -rf + o nome da pasta 
+git status: para saber se está tudo ok
+git add . : para adicionar tudo ou git add -A
+git commit -m "(adiconar um comentário coerente)
+git push origin main ( para empurra a informação para o Github)
+
+

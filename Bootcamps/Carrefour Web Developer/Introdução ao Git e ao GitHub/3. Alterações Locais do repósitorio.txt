@@ -1,0 +1,7 @@
+Após qualquer alteração local seguir os passos abaixo:
+
+ -git status ( para saber se está tudo ok)
+ -git add . ou git add -A  (para adicionar tudo)
+ -git commit -m "(adiconar um comentário coerente)
+ -git status ( para verificar)
+ -git push origin main ( para empurra a informação para o Github)

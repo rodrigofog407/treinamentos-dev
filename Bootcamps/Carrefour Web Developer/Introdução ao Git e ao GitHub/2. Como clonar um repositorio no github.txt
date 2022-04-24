@@ -1,0 +1,12 @@
+- Criar repositório  com readme (Podemos editar no proprio git hub):
+	- extenção do readme será tipo MD (markdown)
+	- Não esquecer de commitar
+
+- copiar o link para clonar ;
+
+- Abrir git bach na pasta que deseja utilizar;
+
+- Digitar o comando: "git clone" e colar o link copiado anteriormente;
+
+- Inserir senha ( se necessário )
+
