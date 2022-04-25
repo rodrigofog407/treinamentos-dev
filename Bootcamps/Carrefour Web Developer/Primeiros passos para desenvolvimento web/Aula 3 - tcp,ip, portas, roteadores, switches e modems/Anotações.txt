@@ -1,0 +1,18 @@
+Portas normamente utilizadas:
+
+20: FTP
+22: SSH
+25: SMTP
+53: DNS
+80: HTTP
+443: HTTPS
+
+
+Portas do Gmail: 25, 465 ou 587
+
+
+Portas  do MySql:A porta padrão do MySQL é 3306
+
+Porta do Apache: porta 80
+
+
